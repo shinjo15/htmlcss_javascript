@@ -1,0 +1,15 @@
+header{
+    margin-top: 30px;
+    color: #2e99a0;
+}
+hr{
+    height: 3px;
+    color: #2e99a9;
+    margin: 30px 0;
+    opacity: 1;
+}
+h1{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
